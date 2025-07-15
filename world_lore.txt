@@ -1,1 +1,3 @@
 1. The language of Ancient Runes: Forged by the Chronomancers, these glowing symbols are not merely writing but conduits of temporal energy. Each rune vibrates with a specific echo of time, used to power ancient devices, seal portals, or even glimpse moments long past. Deciphering them is key to mastering chronomancy.
+ # Add a newline for separation, good practice
+2. The Griffin, a mythical creature guarding the Sky Peaks: Majestic beasts with the head and wings of an eagle and the body of a lion, Griffins nest among the highest, cloud-shrouded peaks. They are fierce protectors of ancient ley lines and rarely seen, their roars echoing like thunder through the mountain valleys, warning intruders away.
